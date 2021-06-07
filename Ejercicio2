@@ -1,0 +1,12 @@
+Inicionumeros comprendidos
+
+	var N
+	
+		Hacer (N=n-1) 
+		
+			Escribir "N"
+			
+		Mientras N>1
+		fin mientras
+		
+fin
